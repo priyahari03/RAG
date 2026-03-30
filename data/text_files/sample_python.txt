@@ -1,0 +1,2 @@
+Python is an awesome language for coding
+Python does everything on the fly
